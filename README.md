@@ -20,11 +20,11 @@ I am motivated and fueled by my vision to empower the youth, women, and others v
 ### 🖥️Tech Stack
 🛠️ I'm experienced in: CSS, HTML5, Javascript, React JS, SQL, Postgres
 
-Programming Languages: JavaScript, Python
-Frontend Development: HTML, CSS, React, Next
-Database Management: Postgresl
-Version Control: Git
-Other Tools: Visual Studio Code, Postman
+. Programming Languages: JavaScript, Python
+. Frontend Development: HTML, CSS, React, Next
+. Database Management: Postgresl
+. Version Control: Git
+. Other Tools: Visual Studio Code, Postman
 
 
 📫 Let's Connect
