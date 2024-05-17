@@ -32,10 +32,12 @@ I am motivated and fueled by my vision to empower the youth, women, and others v
 
 
 
-📫 Let's Connect
+### 📫 Let's Connect
 📢 Feel free to reach out to me if you want to discuss Programming, Graphic Design, Peer learning , or Collaborate on a project. You can connect with me on LinkedIn.![alt text](www.linkedin.com)
 
-🌐 Portfolio Website
+
+
+### 🌐 Portfolio Website
 🔗 Check out my portfolio website here ![alt text] () for a deeper understanding of my skills.
 
 
