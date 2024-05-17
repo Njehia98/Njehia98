@@ -17,7 +17,7 @@ I am motivated and fueled by my vision to empower the youth, women, and others v
 💬 Ask me about Computer systems👩‍💻 & Graphic Designs🎨.
 
 
-# 🖥️Tech Stack
+### 🖥️Tech Stack
 🛠️ I'm experienced in: CSS, HTML5, Javascript, React JS, SQL, Postgres
 
 Programming Languages: JavaScript, Python
