@@ -7,7 +7,8 @@ Hey, Welcome to my github profile. 👩‍💻🤓
 
 I am motivated and fueled by my vision to empower the youth, women, and others via technology. 💪💪
 
-🚀 What I'm up to. 🔭 Currently, I'm working on a Decentralized Water System application, its an open source project.
+🚀 What I'm up to. 
+🔭 Currently, I'm working on a Decentralized Water System application, its an open source project.
 
 🌱 I'm constantly learning and exploring new technologies. My current focus is on Javascript, Reactjs, and Python.
 
