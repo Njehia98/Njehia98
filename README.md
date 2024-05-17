@@ -43,7 +43,7 @@ I am motivated and fueled by my vision to empower the youth, women, and others v
 
 
 ### 🌐 Portfolio Website
-🔗 Check out my portfolio website here ![alt text] () for a deeper understanding of my skills.
+🔗 Check out my portfolio website here ![] () for a deeper understanding of my skills.
 
 
 
