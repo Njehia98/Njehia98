@@ -1,7 +1,7 @@
 ### Hi there I'm Stacy Njehia 👋. Welcome to my github profile.👩‍💻🤓
 
 
-...👩‍💻Software Engineering | 🎨Graphic Designer
+...👩‍💻Software Engineer | 🎨Graphic Designer
 
 
 
