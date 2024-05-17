@@ -1,9 +1,9 @@
-### Hi there I'm Stacy Njehia 👋
+### Hi there I'm Stacy Njehia 👋. Welcome to my github profile.👩‍💻🤓
 
 
 ...👩‍💻Software Engineering | 🎨Graphic Designer
 
-Hey, Welcome to my github profile. 👩‍💻🤓
+
 
 I am motivated and fueled by my vision to empower the youth, women, and others via technology. 💪💪
 
