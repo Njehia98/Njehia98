@@ -1,4 +1,4 @@
-### Hi there I'm Stacy Njehia 👋. Welcome to my github profile.👩‍💻🤓
+### Hi geeks & nerds I'm **Stacy Njehia** 👋. Welcome to my github profile.👩‍💻🤓
 
 
 ...👩‍💻Software Engineer | 🎨Graphic Designer
@@ -26,7 +26,7 @@ I am motivated and fueled by my vision to empower the youth, women, and others v
 
 . **Frontend Development**: HTML, CSS, React, Next
 
-. **Database Management**: Postgresl
+. **Database Management**: Postgresql
 
 . **Version Control**: Git
 
