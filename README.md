@@ -43,7 +43,7 @@ I am motivated and fueled by my vision to empower the youth, women, and others v
 
 
 ### 🌐 Portfolio Website
-🔗 COMING SOON ✨✨✨
+🔗 UNDER CONSTRUCTION 🚧 COMING SOON ✨✨✨
 
 
 
