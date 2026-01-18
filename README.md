@@ -10,11 +10,11 @@ I am motivated and fueled by my vision to empower the youth, women, and others v
 🚀 What I'm up to. 
 🔭 Currently, I'm working on a Decentralized Water System application, its an open source project.
 
-🌱 I'm constantly learning and exploring new technologies. My current focus is on Javascript, Reactjs, and Python.
+🌱 I'm constantly learning and exploring new technologies. My current focus is on Rust, Go and Python.
 
 👯 I believe in the peer learning. Feel free to fork and clone my projects and give your contributions, they are most welcome.
 
-💬 Ask me about Computer systems👩‍💻 & Graphic Designs🎨.
+💬 Ask me about Computer systems👩‍💻 & ICT Audits.
 
 
 
